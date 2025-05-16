@@ -25,7 +25,7 @@ Como analista de datos, he atendido las necesidades de Inteligencia Empresarial 
 | Centro educativo | Titulación | Duración del programa |
 | --- | --- | --- |
 | Universidad del Tolima | Administración Financiera (9º semestre) | (2021 - 2026) |
-| SENA CBI Palmira | Tecnólogo en diseño de productos industriales | (2018 – 2020) |
+| SENA CBI Palmira | Tecnólogo en diseño de productos industriales | (2018 - 2020) |
 
 <br>
 
