@@ -9,17 +9,16 @@ Como analista de datos, he atendido las necesidades de Inteligencia Empresarial 
 
 **EXPERIENCIA PROFESIONAL.**
 
-**- Siderúrgica del occidente | Analista de e-commerce | Jun 2024 - Nov 2024.**<br>
-**- Rappi | Reporting analyst | Oct 2023 - Mar 2024.**<br>
-**- Corladesa | Analista de datos | Nov 2022 - Jul 2023.**<br>
-**- Vita home | Dibujante técnico | Oct 2021 - Nov 2022.**<br>
-**- Pintal ingeniería | Diseñador de proyectos | Ago 2019 - Ene 2021.**<br>
+**- Siderúrgica del occidente | Analista de e-commerce | Jun 2024 - Nov 2024.** <br>
+**- Rappi | Reporting analyst | Oct 2023 - Mar 2024.** <br>
+**- Corladesa | Analista de datos | Nov 2022 - Jul 2023.** <br>
+**- Vita home | Dibujante técnico | Oct 2021 - Nov 2022.** <br>
+**- Pintal ingeniería | Diseñador de proyectos | Ago 2019 - Ene 2021.**
 <br><br>
 
 **EDUCACIÓN.**
  
-- Universidad del Tolima | Administración Financiera (9º semestre) | (2021 - 2025).
-
+- Universidad del Tolima | Administración Financiera (9º semestre) | (2021 - 2025). <br>
 - SENA CBI Palmira | Tecnólogo en diseño de productos industriales | (2018 – 2020). 
 <br><br>
 
