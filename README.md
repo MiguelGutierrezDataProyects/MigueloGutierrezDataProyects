@@ -14,7 +14,7 @@ Como analista de datos, he atendido las necesidades de Inteligencia Empresarial 
 
 | Empresa | Cargo | Periodo |
 | --- | --- | --- |
-| Eficacia | Analista de información | Nov 2024 - Feb 2025 |
+| Eficacia | Analista de información | Nov 2024 - Mar 2025 |
 | Siderúrgica del occidente | Analista de e-commerce | Jun 2024 - Nov 2024 |
 | Rappi | Reporting analyst | Oct 2023 - Mar 2024 |
 | Corladesa | Analista de datos | Nov 2022 - Jul 2023 |
