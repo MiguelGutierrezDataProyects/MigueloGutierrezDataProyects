@@ -9,7 +9,7 @@ Data Analyst, Administrador Financiero, Diseñador.
 
 **PERFIL PROFESIONAL.**
 
-Como analista de datos, he atendido las necesidades de Inteligencia Empresarial en las empresas donde he trabajado mediante la creación de dashboards interactivos en Power BI y Excel. Estos dashboards permiten identificar tanto los KPI implícitos como los explícitos de los procesos de negocio. Además, he implementado procesos ETL que automatizan la generación de informes, reduciendo significativamente el tiempo dedicado a tareas repetitivas. Esto permite que el talento humano se enfoque en actividades de supervisión e innovación, facilitando la toma de decisiones basadas en datos, disminuyendo la aversión al riesgo y agilizando la acción empresarial.
+Analista de datos altamente motivado y meticuloso, con más de 3 años de experiencia especializado en Business Intelligence, visualización y limpieza de datos. Competente en el uso de herramientas como Power BI, Python, Excel, SQL y Snowflake para transformar datos crudos en información útil. Experiencia en procesos ETL, diseño de paneles de control y modelado de datos, con un fuerte enfoque en la mejora de la calidad de los datos y la toma de decisiones estratégicas. Deseoso de aportar habilidades analíticas y un enfoque basado en datos para apoyar los objetivos empresariales.
 <br><br>
 
 **EXPERIENCIA PROFESIONAL.**
@@ -18,9 +18,8 @@ Como analista de datos, he atendido las necesidades de Inteligencia Empresarial 
 | --- | --- | --- |
 | Eficacia | Analista de información | Nov 2024 - Mar 2025 |
 | Siderúrgica del occidente | Analista de e-commerce | Jun 2024 - Nov 2024 |
-| Rappi | Reporting analyst | Oct 2023 - Mar 2024 |
-| Corladesa | Analista de datos | Nov 2022 - Jul 2023 |
-| Vita home | Dibujante técnico | Oct 2021 - Nov 2022 |
+| Rappi | Reporting analyst | Oct 2023 - Jun 2024 |
+| Corladesa | Analista de datos | Ene 2022 - Sep 2023 |
 | Pintal ingeniería | Diseñador de proyectos | Ago 2019 - Ene 2021 |
 
 <br>
