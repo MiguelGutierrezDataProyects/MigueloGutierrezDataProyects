@@ -18,8 +18,9 @@ Analista de datos altamente motivado y meticuloso, con más de 3 años de experi
 | --- | --- | --- |
 | Eficacia | Analista de información | Nov 2024 - Mar 2025 |
 | Siderúrgica del occidente | Analista de e-commerce | Jun 2024 - Nov 2024 |
-| Rappi | Reporting analyst | Oct 2023 - Jun 2024 |
-| Corladesa | Analista de datos | Ene 2022 - Sep 2023 |
+| Rappi | Reporting analyst | Oct 2023 - Mar 2024 |
+| Corladesa | Analista de datos | Nov 2022 - Sep 2023 |
+| Vita home | dibujante tecnico | Oct 2021 - Nov 2022 |
 | Pintal ingeniería | Diseñador de proyectos | Ago 2019 - Ene 2021 |
 
 <br>
@@ -42,8 +43,3 @@ Uso de la suite de Microsoft Office (Excel, Power Point, Word), Power BI, Google
 
 Visualización de datos, atención al detalle, capacidad analítica, comunicación y trabajo en equipo.
 
-
-<!---
-MigueloElCucho/MigueloElCucho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
