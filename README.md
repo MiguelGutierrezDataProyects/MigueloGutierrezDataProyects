@@ -30,7 +30,7 @@ Analista de datos altamente motivado y meticuloso, con más de 3 años de experi
  
 | Centro educativo | Titulación | Duración del programa |
 | --- | --- | --- |
-| Universidad del Tolima | Administración Financiera (9º semestre) | (2021 - 2026) |
+| Universidad del Tolima | Administración Financiera (10º semestre) | (2021 - 2026) |
 | SENA CBI Palmira | Tecnólogo en diseño de productos industriales | (2018 - 2020) |
 
 <br>
