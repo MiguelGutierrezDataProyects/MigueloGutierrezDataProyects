@@ -16,6 +16,7 @@ Analista de datos altamente motivado y meticuloso, con más de 3 años de experi
 
 | Empresa | Cargo | Periodo |
 | --- | --- | --- |
+| Sitt & cia | Analista de información | Jul 2025 - Actualidad |
 | Eficacia | Analista de información | Nov 2024 - Mar 2025 |
 | Siderúrgica del occidente | Analista de e-commerce | Jun 2024 - Nov 2024 |
 | Rappi | Reporting analyst | Oct 2023 - Mar 2024 |
